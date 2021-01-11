@@ -6,11 +6,6 @@ UAS Bahasa Pemrograman
 
 **Penjelasan:**
 
-**Controller**
-
-
-* Nilai akhir didapat dari ``nilai_akhir = (nilai_tugas)*30/100 + (nilai_uts)*35/100 + (nilai_uas)*35/100``
-
 **Model**
 
 *daftar_nilai*
