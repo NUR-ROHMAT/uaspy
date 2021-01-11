@@ -1,8 +1,6 @@
-# lab-6
+UAS Bahasa Pemrograman
 
 **Struktur Package & Module**
-
-Tugas ini sama dengan pertemuan 9, bedanya kita hanya perlu membuat package yang berisi module-module dari setiap fungsi
 
 ![package](assets/img/1.png)
 
