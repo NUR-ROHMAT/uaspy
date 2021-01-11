@@ -128,3 +128,23 @@ Hapus data
 
 
 ![output-praktikum-5](assets/img/flowchart.png)
+
+
+
+Deploy
+
+```
+git pull
+```
+
+if (any changes on /root)
+
+```
+git add . && git commit -m "update" && git push origin main
+```
+
+Update all changes
+
+```
+./deploy.sh
+```
