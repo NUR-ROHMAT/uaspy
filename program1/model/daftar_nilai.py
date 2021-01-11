@@ -78,3 +78,14 @@ def cari_data():
             .format(nama, data[nama][1], data[nama][2], data[nama][3], data[nama][4], data[nama][5]))
     else:
         print("'{}' tidak ditemukan.".format(nama))
+
+
+    print("==============================================================")
+    print("|      Nama      |    NIM    | Tugas |  UTS  |  UAS  | Akhir |")
+    print("==============================================================")
+    if nama in data.keys():
+        print("| {0:14} | {1:9} | {2:5} | {3:5} | {4:5} | {5:5}"
+            .format(nama, data[nama][1], data[nama][2], data[nama][3], data[nama][4], data[nama][5]))
+        print('--------------------------------------------------------------')
+    else:
+        print("'{}' tidak ditemukan.".format(nama))

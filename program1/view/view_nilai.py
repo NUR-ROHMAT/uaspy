@@ -2,7 +2,7 @@
 from model.daftar_nilai import data
 
 def lihat_data():
-    print("Daftar Nilai Mahasiswa:")
+    print("Daftar Nilai:")
     print("===================================================================")
     print("| No |      Nama      |    NIM    | Tugas |  UTS  |  UAS  | Akhir |")
     print("===================================================================")
